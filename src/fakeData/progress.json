@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Total Applications",
+        "count": 7956,
+        "grow": 3.59,
+        "percent": 70
+    },
+    {
+        "id": 2,
+        "title": "Shortlisted Candidates",
+        "count": 4658,
+        "grow": 0.6,
+        "percent": 60
+    },
+    {
+        "id": 3,
+        "title": "Total Applications",
+        "count": 1501,
+        "grow": 0.4,
+        "percent": 40
+    }
+]

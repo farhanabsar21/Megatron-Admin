@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Applications",
+        "percent": 45
+    },
+    {
+        "id": 2,
+        "title": "Selected",
+        "percent": 30
+    },
+    {
+        "id": 3,
+        "title": "Rejected",
+        "percent": 25
+    }
+]
